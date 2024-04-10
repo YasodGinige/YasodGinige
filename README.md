@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YasodGinige
-- 👀 Interested in IoT and Machine Learning
-- 🌱 I’m currently learning Electronics and Telecommuication Engineering in University of Moratuwa
-- 💞️ Looking to collaborate on research projects based on IoT system development.
+- 👀 Interested in the domains of Machine Learning and Telecommunication.
+- 🌱 I’m pursuing my PhD at the University of Sydney and working on LLMs and AI-enhanced Cybersecurity applications.
+- :computer: Looking to collaborate on research projects based on Machine Learning and Telecommunication.
 - 📫 How to reach me- yasodginige98@gmail.com
 
 <!---
